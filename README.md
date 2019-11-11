@@ -34,10 +34,10 @@ we design a feature fusion block to recover spatial features at decoder part and
 We use the contrast¬-enhanced abdominal CT scans of MICCAI 2017 Liver Tumor Segmentation (LiTS) challenge dataset (https://competitions.codalab.org/competitions/17094) to test our model. Our liver segmentation results get 0.955 Dice global score, 0.937 Dice per volume score and 0.106 volume overlap error score. The tumor detected precision has improved and the score is 0.369. The Dice global score is 0.746 and the Dice per volume score is 0.592.
 
 ## Cite
-@misc{1711.11069,
-Author = {Miriam Bellver and Kevis-Kokitsi Maninis and Jordi Pont-Tuset and Xavier Giro-i-Nieto and Jordi Torres and Luc Van Gool},
-Title = {Detection-aided liver lesion segmentation using deep learning},
-Year = {2017},
-Eprint = {arXiv:1711.11069},
-}
+    @misc{1711.11069,
+    Author = {Miriam Bellver and Kevis-Kokitsi Maninis and Jordi Pont-Tuset and Xavier Giro-i-Nieto and Jordi Torres and Luc Van Gool},
+    Title = {Detection-aided liver lesion segmentation using deep learning},
+    Year = {2017},
+    Eprint = {arXiv:1711.11069},
+    }
 
