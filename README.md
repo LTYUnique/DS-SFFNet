@@ -18,7 +18,7 @@ In DS-SFFNet, we add rich skip-connections to recover detailed spatial features 
 
 ![figure2](https://github.com/LTYUnique/DS-SFFNet/blob/master/images/figure%203.png)
 
-The details of DS-SFFNet architecture.
+The details of DS-SFFNet architecture. At the down-sample part, there are 13 convolutional layers and 4 max pooling layers. The network is divided into different convolutional blocks according to the resolution. And the side-output layers are connected at the end of each block to supervise the training process and compute the final loss. At the up-sample part, we use the bilinear interpolation to recovery the size of feature maps and introduce the FFB (the structure of FFB is in section B) to reserve more spatial features. Therefore, the feature maps from skip-connections and up-sampling layers can properly stack together.
 
 ![figure5](https://github.com/LTYUnique/DS-SFFNet/blob/master/images/figure%205.png)
 
