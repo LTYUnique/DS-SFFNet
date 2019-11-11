@@ -12,4 +12,12 @@ In the testing phase, we first get the accurate liver segmentation results. Then
 
 ![the over pipeline](https://github.com/LTYUnique/DS-SFFNet/blob/master/images/figure%202.png)
 
+## 2 Methods
+
+
+
+
+
+## 3 Experiments and results
+
 
