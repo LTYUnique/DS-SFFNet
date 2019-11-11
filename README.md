@@ -3,6 +3,6 @@ Deep supervision spatial Feature Fusion convolutional network (DS-SFFNet) is an 
 
 This work used [miriambellver's work](https://github.com/imatge-upc/liverseg-2017-nipsws) and modified it to achieve our purpose.
 
-![](https://github.com/LTYUnique/DS-SFFNet/blob/master/images/figure%202.png)
+![the over pipeline](https://github.com/LTYUnique/DS-SFFNet/blob/master/images/figure%202.png)
 
 
