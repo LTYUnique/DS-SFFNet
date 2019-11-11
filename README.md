@@ -25,5 +25,5 @@ we design a feature fusion block to recover spatial features at decoder part and
 
 ## 3 Experiments and results
 
-We use the contrast¬-enhanced abdominal CT scans of MICCAI 2017 Liver Tumor Segmentation (LiTS) challenge dataset[]  (https://competitions.codalab.org/competitions/17094) to test our model.
+We use the contrast¬-enhanced abdominal CT scans of MICCAI 2017 Liver Tumor Segmentation (LiTS) challenge dataset (https://competitions.codalab.org/competitions/17094) to test our model.
 
