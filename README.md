@@ -4,7 +4,7 @@ Deep supervision spatial Feature Fusion convolutional network (DS-SFFNet) is an 
 ### This work used [miriambellver's work](https://github.com/imatge-upc/liverseg-2017-nipsws) and modified it to achieve our purpose.
 
 
-# 1 The overall pipeline:
+## 1 The overall pipeline:
 
 In the training phase, we first train liver segmentation network to get the coarse liver segmentation results. The liver ROI of CT images are located according to the liver segmentation results. Secondly, we use liver ROI to train liver tumor segmentation network to get the coarse liver tumor segmentation results. 
 
