@@ -16,7 +16,7 @@ In the testing phase, we first get the accurate liver segmentation results. Then
 ### DS-SFFNet architecture
 In DS-SFFNet, we add rich skip-connections to recover detailed spatial features based on [miriambellver's](https://github.com/imatge-upc/liverseg-2017-nipsws) network architecture. We also propose a novel feature fusion block to fuse detailed spatial feartures and hig-level semantic feature.
 
-![figure2]()
+![figure2](https://github.com/LTYUnique/DS-SFFNet/blob/master/images/figure%203.png)
 
 ### Feature fusion block
 
