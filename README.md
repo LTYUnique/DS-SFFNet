@@ -19,9 +19,9 @@ In DS-SFFNet, we add rich skip-connections to recover detailed spatial features 
 ![figure2](https://github.com/LTYUnique/DS-SFFNet/blob/master/images/figure%203.png)
 
 ### Feature fusion block
+we design a feature fusion block to recover spatial features at decoder part and fuse feature maps from different resolution. 
 
-
-
+![figure3](https://github.com/LTYUnique/DS-SFFNet/blob/master/images/figure%204.png)
 
 ## 3 Experiments and results
 
