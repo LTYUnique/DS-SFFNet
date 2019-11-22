@@ -40,4 +40,5 @@ We use the contrast-enhanced abdominal CT scans of MICCAI 2017 Liver Tumor Segme
     Year = {2017},
     Eprint = {arXiv:1711.11069},
     }
-
+    
+    3D CRFs : https://github.com/mbickel/DenseInferenceWrapper
